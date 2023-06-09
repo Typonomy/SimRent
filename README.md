@@ -11,7 +11,7 @@ placeholder.
 Each turn is one month.  There is a built in variable rent increase for everyone every year.  They can be fired for 1-6 turns.
 They get rehired at a random salary.  There's an option to subsidize rent, but it's not totally finished.
 
-They all have a wellbeing score of 1-10, randomly assigned but with a couple of modifiers.  I'm building in a really 
+They all have a wellbeing score of 1-10, randomly assigned but with a couple of modifiers.  Right now I'm building in a really 
 simple "hospital" function and a really simple "healthcare subsidy" function, something like "2 wellbeing for $1000".
 
 It should have graphics of some kind in Version 5 probably.
