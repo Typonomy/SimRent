@@ -4,7 +4,7 @@ Rent Crisis Simulator
 I'm just starting to learn python.  And I started trying to make a rent crisis simulator game, but I couldn't get the 
 drivers to work for pygame at first.  So this version is just a simple database with a little tkinter window.
 
-It assigns weighted random populations for five income cohorts, then gives them weighted random incomes.  They each have
+It assigns weighted random populations for different income cohorts, then gives them weighted random incomes.  They each have
 some incidence of homelessness, there's a homeless census too.  If they have rent, this version initially sets it at 30% as a
 placeholder.  
 
